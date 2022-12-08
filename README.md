@@ -1,6 +1,6 @@
 # Meu primeiro aplicativo com AWS Amplify e React App
 
-Este projeto foi inspirado no [projeto](https://github.com/anacunha/adote-um-pet/blob/main/README.md?plain=1) apresentado pela Ana Cunha (AWS) no TCD Future 2022.
+Este projeto foi inspirado no [projeto](https://github.com/anacunha/adote-um-pet) apresentado pela Ana Cunha (AWS) no TCD Future 2022.
 
 ## Sobre
 
